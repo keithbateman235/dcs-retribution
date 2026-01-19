@@ -6,8 +6,8 @@ from game.modsupport import shipmod
 class HMS_QE(unittype.ShipType):
     id = "HMS_QE"
     name = "HMS Queen Elizabeth (TPaP)"
-    plane_num = 24
-    helicopter_num = 16
+    plane_num = 40
+    helicopter_num = 36
     parking = 4
     detection_range = 300000
     threat_range = 150000
